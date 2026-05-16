@@ -1,4 +1,3 @@
-[portier-vs-crown-castle.html](https://github.com/user-attachments/files/27862124/portier-vs-crown-castle.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
