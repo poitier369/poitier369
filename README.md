@@ -1,3 +1,4 @@
+[poitier-vs-crown-castle.html](https://github.com/user-attachments/files/27863576/poitier-vs-crown-castle.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -207,7 +208,7 @@ footer strong{color:#ccc}
   <h2>What Happened — and Why It Matters</h2>
 
   <div class="box box-gold">
-    <p><strong>The core allegation:</strong> In December 2011, Sidney Portier II signed a letter agreement with Crown Castle Towers 09 LLC for the purchase of a perpetual easement over his Wayne County, North Carolina property for $75,000. The document that was actually filed with the Wayne County Register of Deeds on April 4, 2012, bears a different execution date — March 21, 2012 — and Mr. Poitier alleges it contains material irregularities that do not reflect the terms he agreed to. His wife, Janell Marie Poitier, was added as a co-Grantor on that recorded document without any corresponding signature or acknowledgment in the original agreement.</p>
+    <p><strong>The core allegation:</strong> In December 2011, Sidney Poitier II signed a letter agreement with Crown Castle Towers 09 LLC for the purchase of a perpetual easement over his Wayne County, North Carolina property for $75,000. The document that was actually filed with the Wayne County Register of Deeds on April 4, 2012, bears a different execution date — March 21, 2012 — and Mr. Poitier alleges it contains material irregularities that do not reflect the terms he agreed to. His wife, Janell Marie Poitier, was added as a co-Grantor on that recorded document without any corresponding signature or acknowledgment in the original agreement.</p>
   </div>
 
   <p>The property in question — located at 1720 S. Slocumb Street, Goldsboro, NC (Wayne County), designated as Facility #810076 and site Seymour Johnson NC G/203560 — has hosted cell tower communications infrastructure since at least 2003, when Mr. Poitier entered his original PCS Site Agreement with ACW Leasing Company Inc.</p>
@@ -441,7 +442,7 @@ footer strong{color:#ccc}
 
   <div class="industry-card">
     <div class="source">Cell Tower Attorney — Landowner Property Rights</div>
-    <p>A cell tower attorney's practice newsletter documents a pattern directly analogous to the Portier situation: <em>"Many unknowing landowners assume incorrectly that the cell phone company has the right to use their property… We suspect, however, that in many instances, the cell phone company does not have such rights and will only negotiate with a landowner when it is brought to their attention."</em> The attorney's firm notes this type of scenario is "happening frequently throughout the country."</p>
+    <p>A cell tower attorney's practice newsletter documents a pattern directly analogous to the Poitier situation: <em>"Many unknowing landowners assume incorrectly that the cell phone company has the right to use their property… We suspect, however, that in many instances, the cell phone company does not have such rights and will only negotiate with a landowner when it is brought to their attention."</em> The attorney's firm notes this type of scenario is "happening frequently throughout the country."</p>
     <span class="cite">Source: Cell Tower Attorney, "Landowners' Property and Utility Company Easements" · <a href="http://www.celltowerattorney.com/news/2009/02/landowners-property-and-utility-company.html" target="_blank">celltowerattorney.com</a></span>
   </div>
 
@@ -462,20 +463,20 @@ footer strong{color:#ccc}
 <section id="legal">
   <span class="section-label">Legal Framework</span>
   <h2>Applicable North Carolina Law</h2>
-  <p>The following legal framework applies to the Poitier dispute under North Carolina law. This is informational only — not legal advice.</p>
+  <p>The following legal framework applies to the Poitier dispute under North Carolina law. This is informational only — not legal advice. Mr. Poitier should consult a North Carolina real property attorney.</p>
 
   <div class="law-card">
     <div class="law-ref">N.C. Gen. Stat. § 1-52(9) — Fraud Statute of Limitations</div>
     <h4>The Clock Starts at Discovery, Not at Signing</h4>
     <p>Under North Carolina law, a fraud claim must be filed within three years — but critically, <em>"the cause of action shall not be deemed to have accrued until the discovery by the aggrieved party of the facts constituting the fraud or mistake."</em> This is known as the discovery rule. For constructive fraud, a 2013 amendment to the statute confirmed that "discovery" means <strong>actual discovery</strong> — not when the fraud theoretically could have been discovered.</p>
-    <p>This means the three-year window for Mr. Portier's fraud claim begins from when he actually discovered the irregularities — not from when the deed was recorded in 2012. The question of when discovery occurred is a fact question for the jury, per NC Pattern Jury Instruction 800.00A, which cites <em>Hudson v. Game World, Inc.</em>, 126 N.C. App. 139 (1997).</p>
+    <p>This means the three-year window for Mr. Poitier's fraud claim begins from when he actually discovered the irregularities — not from when the deed was recorded in 2012. The question of when discovery occurred is a fact question for the jury, per NC Pattern Jury Instruction 800.00A, which cites <em>Hudson v. Game World, Inc.</em>, 126 N.C. App. 139 (1997).</p>
     <span class="cite">Sources: N.C. Gen. Stat. § 1-52(9) · <a href="https://codes.findlaw.com/nc/chapter-1-civil-procedure/nc-gen-st-sect-1-52.html" target="_blank">FindLaw</a> &nbsp;·&nbsp; NC Pattern Jury Instruction 800.00A · <a href="https://www.sog.unc.edu/sites/default/files/pji-master/c/c800.00A%20Fraud%E2%80%94Statute%20of%20Limitations%20%5B5-2016%5D.pdf" target="_blank">UNC School of Government</a> &nbsp;·&nbsp; Constructive Fraud Amendment, NC Legislative Reporting Service · <a href="https://lrs.sog.unc.edu/bill/constructive-fraudlimitations-period" target="_blank">lrs.sog.unc.edu</a></span>
   </div>
 
   <div class="law-card">
     <div class="law-ref">N.C. Gen. Stat. § 41-10 — Quiet Title Action</div>
     <h4>Removing the Cloud on Title</h4>
-    <p>North Carolina law provides a mechanism to challenge a fraudulent or materially altered recorded instrument through a quiet title action filed in the Superior Court of the county where the land is located — in this case, Wayne County Superior Court. Under NC law: <em>"Forged or materially altered deeds are void and convey nothing; fraud‑induced deeds are voidable and can be cancelled by judgment."</em> If the deed was materially different from what Mr. Portier agreed to, a court could declare the easement void, cancel it in the Register of Deeds, and restore the Poitiers' full property rights.</p>
+    <p>North Carolina law provides a mechanism to challenge a fraudulent or materially altered recorded instrument through a quiet title action filed in the Superior Court of the county where the land is located — in this case, Wayne County Superior Court. Under NC law: <em>"Forged or materially altered deeds are void and convey nothing; fraud‑induced deeds are voidable and can be cancelled by judgment."</em> If the deed was materially different from what Mr. Poitier agreed to, a court could declare the easement void, cancel it in the Register of Deeds, and restore the Poitiers' full property rights.</p>
     <p>A lis pendens (notice of pending litigation) can be recorded with the Register of Deeds to put all parties — including American Tower — on notice of the dispute and prevent further transfers.</p>
     <span class="cite">Sources: N.C. Gen. Stat. § 41-10 · Pierce Law Group, "Quiet Title Actions in NC" · <a href="https://piercelaw.com/news/real-estate-qa-series/how-can-i-prove-fraud-in-my-quiet-title-action-and-clear-the-property-title/" target="_blank">piercelaw.com</a> &nbsp;·&nbsp; Anderson Legal, "Guide to Quiet Title Actions in NC" · <a href="https://www.andersonlegalnc.com/a-guide-to-quiet-title-actions-in-north-carolina/" target="_blank">andersonlegalnc.com</a></span>
   </div>
@@ -575,7 +576,7 @@ footer strong{color:#ccc}
     <div class="post-date">April 5, 2021</div>
     <h3>American Tower Attorney's Letter: No Knowledge of the Original Agreement</h3>
     <p>A letter from Christopher Satti, Attorney at American Tower Corporation (US Tower division), responding to the Poitiers' inquiries via FedEx, references the easement exclusively as "dated March 21, 2012" — with no mention of the December 2011 letter agreement. The letter asserts the easement is perpetual, that American Tower holds it in perpetuity, and closes with a full reservation of Grantee's rights. Attachments included the easement and the assignment agreement.</p>
-    <p>This letter is significant because it confirms that the original agreement Mr. Portier signed was never disclosed to American Tower — the current holder — at any point in the chain of title.</p>
+    <p>This letter is significant because it confirms that the original agreement Mr. Poitier signed was never disclosed to American Tower — the current holder — at any point in the chain of title.</p>
     <span class="tag tag-gold">American Tower</span><span class="tag tag-red">Corroborating Evidence</span>
   </div>
 
